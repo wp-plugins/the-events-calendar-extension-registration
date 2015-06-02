@@ -1,0 +1,1572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-event-registration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-29 16:38+0100\n"
+"PO-Revision-Date: 2015-05-29 16:38+0100\n"
+"Last-Translator: e-colori.com <info@e-colori.com>\n"
+"Language-Team: wp-event-registration <info@e-colori.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-event-registration.php:62
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-event-registration-admin.php:121
+msgid "Event Registration"
+msgstr "Event Anmeldung"
+
+#: admin/OLD_admin.php:31
+#: admin/partials/event-registration-admin-display.php:29
+msgid "Email sender options"
+msgstr "Email Absender Optionen"
+
+#: admin/OLD_admin.php:36
+#: admin/partials/event-registration-admin-display.php:34
+msgid "\"From\" Name"
+msgstr "\"Von\" Name"
+
+#: admin/OLD_admin.php:44
+#: admin/partials/event-registration-admin-display.php:42
+msgid "\"From\" Email Address"
+msgstr "\"Von\" Email Addresse"
+
+#: admin/OLD_admin.php:52
+#: admin/partials/event-registration-admin-display.php:50
+msgid "Terms URL"
+msgstr "URL der AGBs"
+
+#: admin/OLD_admin.php:55
+msgid "http://www.your-domain.com/terms"
+msgstr "http://www.deine-webseite.de/agb"
+
+#: admin/OLD_admin.php:56
+#: admin/partials/event-registration-admin-display.php:54
+msgid "Create a page with your terms and conditions and instert the URL here."
+msgstr ""
+"Erstelle eine Seite mit Deinen Allgemeinen Geschäftsbedingungen (AGBs) und "
+"Konditionen und füge die URL hier ein."
+
+#: admin/OLD_admin.php:61
+#: admin/partials/event-registration-admin-display.php:59
+msgid "Email Footer Text"
+msgstr "Text für die Fußzeile der Email"
+
+#: admin/OLD_admin.php:64
+#: admin/partials/event-registration-admin-display.php:62
+msgid ""
+"Enter here the text and your contact details you want to show at the end of "
+"the registration email"
+msgstr ""
+"Gebe hier den Text und Deine Kontakt Details ein, die Du in die "
+"Registrierungs Email einfügen möchtest."
+
+#: admin/OLD_admin.php:71
+msgid "Your Bank account details"
+msgstr "Deine Bank Konto Details"
+
+#: admin/OLD_admin.php:76
+#: admin/partials/event-registration-admin-display.php:74
+msgid "Currency"
+msgstr "Währung"
+
+#: admin/OLD_admin.php:86
+#: admin/partials/event-registration-admin-display.php:88
+msgid "Show bank details in email"
+msgstr "Zeige die Bank Details in der Email"
+
+#: admin/OLD_admin.php:91
+#: admin/partials/event-registration-admin-display.php:95
+msgid "Paymet Text"
+msgstr "Zahlungs Betreff"
+
+#: admin/OLD_admin.php:94
+#: admin/partials/event-registration-admin-display.php:98
+msgid ""
+"Enter here the text to explain how to pay before showing the bank details"
+msgstr ""
+"Füge hier den Text ein, wie bezahlt werden soll, bevor die Bank Konto "
+"Details angezeigt werden"
+
+#: admin/OLD_admin.php:100
+#: admin/partials/event-registration-admin-display.php:104
+msgid "Bank name"
+msgstr "Bankname"
+
+#: admin/OLD_admin.php:108
+#: admin/partials/event-registration-admin-display.php:112
+#: public/class-event-registration-public.php:336
+msgid "Remittee"
+msgstr "Überweisungsempfänger"
+
+#: admin/OLD_admin.php:116
+#: admin/partials/event-registration-admin-display.php:120
+#: public/class-event-registration-public.php:337
+msgid "IBAN"
+msgstr "IBAN"
+
+#: admin/OLD_admin.php:124
+#: admin/partials/event-registration-admin-display.php:128
+#: public/class-event-registration-public.php:338
+msgid "Swift / BIC Code"
+msgstr "Swift / BIC Code"
+
+#: admin/OLD_admin.php:133
+#: admin/partials/event-registration-admin-display.php:137
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/OLD_order.php:16
+#: public/partials/event-registration-public-display.php:16
+msgid "I hereby register for the seminar."
+msgstr "Hiermit melde ich mich zum Seminar an."
+
+#: admin/OLD_order.php:25
+#: public/partials/event-registration-public-display.php:25
+msgid "First Name"
+msgstr "Vorname"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:29
+#: public/partials/event-registration-public-display.php:29
+msgid "Last Name"
+msgstr "Nachname"
+
+#: admin/OLD_order.php:33
+#: public/partials/event-registration-public-display.php:33
+msgid "Company"
+msgstr "Firma"
+
+#: admin/OLD_order.php:37
+#: public/partials/event-registration-public-display.php:37
+msgid "Email"
+msgstr "Email"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:41
+#: public/partials/event-registration-public-display.php:41
+msgid "Address"
+msgstr "Anschrift"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:45
+#: public/partials/event-registration-public-display.php:45
+msgid "Postcode"
+msgstr "Postleitzahl"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:49
+#: public/partials/event-registration-public-display.php:49
+msgid "City"
+msgstr "Ort"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:53
+#: public/partials/event-registration-public-display.php:53
+msgid "Country"
+msgstr "Land"
+
+# @ wpsmnt_
+#: admin/OLD_order.php:73
+#: public/partials/event-registration-public-display.php:73
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/OLD_order.php:74
+#: public/partials/event-registration-public-display.php:74
+msgid "e.g. +49221998877"
+msgstr "zB. +49221998877"
+
+#: admin/OLD_order.php:78
+#: public/partials/event-registration-public-display.php:78
+msgid "Seminar"
+msgstr "Seminar"
+
+#: admin/OLD_order.php:81
+#: public/partials/event-registration-public-display.php:81
+msgid "Your message"
+msgstr "Ihre Nachricht"
+
+#: admin/OLD_order.php:86
+#: public/partials/event-registration-public-display.php:86
+msgid "I accept the"
+msgstr "Ich akzeptiere die"
+
+#: admin/OLD_order.php:86
+#: public/partials/event-registration-public-display.php:86
+msgid "terms and conditions"
+msgstr "Allgemeinen Geschäftsbedingungen"
+
+#: admin/OLD_order.php:99
+#: public/partials/event-registration-public-display.php:99
+msgid "Register"
+msgstr "Anmelden"
+
+#: admin/partials/event-registration-admin-display.php:22
+msgid "Settings › 'The Events Calendar Extension: Registration'"
+msgstr "Einstellungen > 'The Events Calendar Extension: Registration'"
+
+#: admin/partials/event-registration-admin-display.php:69
+msgid "Bank account details"
+msgstr "Bank Konto Details"
+
+#: admin/partials/event-registration-admin-display.php:82
+msgid "Visibility bank details"
+msgstr "Sichtbarkeit Bank Details"
+
+#: admin/partials/event-registration-admin-display.php:144
+msgid "Need Help?"
+msgstr "Brauchst Du Hilfe?"
+
+#: admin/partials/event-registration-admin-display.php:145
+msgid ""
+"You have questions or a feature request for The Events Calendar Extension: "
+"Registration?"
+msgstr ""
+"Du hast eine Frage oder vermisst eine Funktion für The Events Calendar "
+"Extension: Registration?"
+
+#: admin/partials/event-registration-admin-display.php:146
+msgid "Visit the plugin page and see all posibilities"
+msgstr "Besuche die Internetseite des Plugin und erfahre alle Möglichkeiten"
+
+#: admin/partials/event-registration-admin-display.php:148
+msgid "Stay connected, subscribe for news!"
+msgstr "Bleib informiert, melde Dich für den Newsletter an!"
+
+#: includes/class-event-registration-activator.php:35
+msgid ""
+"If you withdraw from a training until 4 weeks before the start we have to "
+"charge a processing fee of 50,- €. After this period, the full course fee is "
+"payable plus the costs for accommodation, or you have to provide a "
+"replacement participant."
+msgstr ""
+"Bei einem Rücktritt von einem Seminar bis 4 Wochen vor Trainingsbeginn "
+"werden Bearbeitungskosten in Höhe von 50,- € berechnet. Nach Ablauf dieser "
+"Frist ist die volle Kursgebühr zuzüglich der Unterbringungskosten der "
+"Seminarhäuser zu zahlen, oder Sie stellen einen Ersatzteilnehmer."
+
+#: includes/class-event-registration-activator.php:36
+msgid "Enter your contact details here. Name, address, phone, email, url, etc."
+msgstr ""
+"Füge hier Deine Kontakdaten ein. Name, Adresse, Telefon, Email, URL, etc."
+
+#: includes/class-event-registration-activator.php:38
+msgid ""
+"Your registration for a seminar or training is not mandatory until the "
+"seminar fee has been paid into our bank account (free seminars excluded)."
+msgstr ""
+"Ihre Anmeldung zu einem Seminar hat erst Gültigkeit, wenn die Seminargebühr "
+"auf unser Konto eingezahlt wurde (kostenlose Seminare ausgeschlossen)."
+
+#: public/class-event-registration-public.php:260
+msgid "Register now"
+msgstr "Jetzt anmelden"
+
+#: public/class-event-registration-public.php:287
+msgid "We sent you an email with your registration details."
+msgstr "Wir haben Ihnen eine Email mit Ihren Anmeldungsdetails zugeschickt."
+
+#: public/class-event-registration-public.php:290
+msgid "Sorry, your registration was not sent. Please get in contact with us."
+msgstr ""
+"Entschuldigung, Ihre Buchung konnte nicht gespeichert werden. Bitte setzen "
+"Sie sich mit uns in Verbindung."
+
+#: public/class-event-registration-public.php:311
+#, php-format
+msgid "Registration: %1$s"
+msgstr "Anmeldung: %1$s"
+
+#: public/class-event-registration-public.php:312
+msgid "(automatic reply)"
+msgstr "(automatische Antwort)"
+
+#: public/class-event-registration-public.php:314
+#, php-format
+msgid "Thank you %1$s, <br/><br/> your registration was successfull."
+msgstr "Vielen Dank  %1$s, <br/><br/> Ihre Anmeldung war erfolgreich."
+
+#: public/class-event-registration-public.php:334
+msgid "Please transfer the invoice total to:"
+msgstr "Bitte überweisen Sie den Betrag auf folgendes Bankkonto:"
+
+#: public/class-event-registration-public.php:339
+msgid "Reason for payment"
+msgstr "Verwendungszweck"
+
+#: public/class-event-registration-public.php:340
+msgid "Amount"
+msgstr "Betrag"
+
+#: public/class-event-registration-public.php:341
+msgid "Thank you!"
+msgstr "Vielen Dank!"
+
+#: public/class-event-registration-public.php:420
+msgid "Please select"
+msgstr "Bitte wählen Sie"
+
+#~ msgid "Visit our site and read the docs"
+#~ msgstr "Besuche die Plugin-Webseite und entdecke alle Möglichkeiten."
+
+#~ msgid "Registration"
+#~ msgstr "Anmeldung"
+
+#~ msgid "Client"
+#~ msgstr "Kunde"
+
+# @ wpsmnt_
+#~ msgid "Room"
+#~ msgstr "Raum"
+
+# @ wpsmnt_
+#~ msgid "Rooms"
+#~ msgstr "Räume"
+
+#~ msgid "Registrations"
+#~ msgstr "Anmeldungen"
+
+#~ msgid "Overview"
+#~ msgstr "Übersicht"
+
+# @ wpsmnt_
+#~ msgid "Instructors"
+#~ msgstr "Dozenten"
+
+#~ msgid "Please choose something"
+#~ msgstr "Bitte wählen Sie etwas aus"
+
+#~ msgid "Thank you. Your order with the no. %1$s was successfull."
+#~ msgstr "Vielen Dank. Ihre Anmeldung  mit der Nr. %1$s  war erfolgreich."
+
+#~ msgid "Yoga Conference Germany Registration %1$s (%2$s)"
+#~ msgstr "Yoga Conference Germany Anmeldung %1$s (%2$s)"
+
+#~ msgid ""
+#~ "Thank you %1$s, <br/><br/> your order with the no. %2$s was successfull."
+#~ msgstr ""
+#~ "Vielen Dank  %1$s, <br/><br/> Ihre Anmeldung  mit der Nr. %2$s  war "
+#~ "erfolgreich."
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Your PDF bill is attached."
+#~ msgstr "Ihre PDF Rechnung finden Sie im Anhang."
+
+#~ msgid "Thank you for your payment, you already payed with PayPal."
+#~ msgstr ""
+#~ "Vielen Dank für Ihre Bezahlung, Sie haben bereits mit PayPal bezahlt."
+
+#~ msgid "See you at the Yoga Conference Germany!"
+#~ msgstr "See you at the Yoga Conference Germany!"
+
+#~ msgid "We sent you an email with your order details and a PDF bill."
+#~ msgstr ""
+#~ "Wir haben Ihnen eine Email mit Ihren Anmeldungsdetails und einer PDF "
+#~ "Rechnung zugeschickt."
+
+#~ msgid "Click here to download your PDF bill"
+#~ msgstr "PDF Rechnung herunterladen"
+
+#~ msgid "Thank you, your order was already saved."
+#~ msgstr "Vielen Dank, Ihre Bestellung wurde bereits gespeichert."
+
+#~ msgid "Home"
+#~ msgstr "Home"
+
+#~ msgid "Back to homepage"
+#~ msgstr "Zurück zur Startseite"
+
+#~ msgid "Please fill in all required fields"
+#~ msgstr "Bitte füllen Sie alle notwendingen Felder aus"
+
+#~ msgid "Please enter a valid email"
+#~ msgstr "Bitte überprüfen Sie die Email"
+
+#~ msgid ""
+#~ "Your email is already registered. <br/>Please Sign In as returning "
+#~ "customer"
+#~ msgstr ""
+#~ "Ihre Email ist bereits registriert. <br/>Bitte melden Sie sich als Kunde "
+#~ "an"
+
+#~ msgid "Please check the passwords"
+#~ msgstr "Bitte überprüfen Sie die Passwörter"
+
+#~ msgid "Thank you"
+#~ msgstr "Vielen Dank"
+
+#~ msgid "Please use the email only once"
+#~ msgstr "Bitte verwenden Sie die Email nur einmal"
+
+#~ msgid "Please choose an event"
+#~ msgstr "Bitte wählen Sie einen Event"
+
+# @ wpsmnt_
+#~ msgid "Special Price"
+#~ msgstr "Sonderpreis"
+
+#~ msgid "until"
+#~ msgstr "bis"
+
+# @ wpsmnt_
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+#~ msgid "Yoga Conference Germany Registration %1$s"
+#~ msgstr "Yoga Conference Germany Anmeldung %1$s"
+
+#~ msgid ""
+#~ "Thank you %1$s, <br/><br/> you succesfully selected your workshops for "
+#~ "the no. %2$s."
+#~ msgstr ""
+#~ "Vielen Dank  %1$s, <br/><br/> Sie haben erfolgreich Ihre Workshops für "
+#~ "die Nr. %2$s gewählt."
+
+#~ msgid "Your new PDF bill is attached."
+#~ msgstr "Ihre neue PDF Rechnung finden Sie im Anhang."
+
+#~ msgid "Workshops for %1$s succesfully saved."
+#~ msgstr "Workshops für %1$s erfolgreich gespeichert."
+
+#~ msgid "Sorry, the email was not sent. Please get in contact with us."
+#~ msgstr ""
+#~ "Entschuldigung, die Email konnte nicht gesendet werden. Bitte setzen Sie "
+#~ "sich mit uns in Verbindung."
+
+#~ msgid "Go back to your customer data"
+#~ msgstr "Zurück zu Ihren Kundendaten"
+
+#~ msgid "Go back to your customer profile"
+#~ msgstr "Zurück zu Ihrem Kundenprofil"
+
+#~ msgid "Sign In as returning customer"
+#~ msgstr "Als Kunde anmelden"
+
+#~ msgid "Sign In"
+#~ msgstr "Anmelden"
+
+#~ msgid "Request a new password"
+#~ msgstr "Ein neues Passwort anfordern"
+
+#~ msgid "Forgot your password? Click here"
+#~ msgstr "Passwort vergessen? Klicken Sie hier"
+
+#~ msgid "The PDF file for registration no %1$s has been created."
+#~ msgstr "Die PDF Datei für die Anmeldung Nr. %1$s wurde neu erstellt."
+
+#~ msgid ""
+#~ "Hello %1$s, <br/><br/> your registration with the no. %2$s. was changed."
+#~ msgstr ""
+#~ "Hallo  %1$s, <br/><br/> Ihre Anmeldung mit der Nr. %2$s wurde geändert."
+
+#~ msgid "Yoga Conference Germany payment confirmation for %1$s"
+#~ msgstr "Yoga Conference Germany Zahlungsbestätigung für %1$s"
+
+#~ msgid ""
+#~ "Hello %1$s, <br/><br/> we received your payment for no. %2$s, thank you."
+#~ msgstr ""
+#~ "Hallo  %1$s, <br/><br/> vielen Dank. Wir haben Ihre Zahlung für %2$s "
+#~ "erhalten."
+
+#~ msgid "We sent you an email with your payment confirmation."
+#~ msgstr ""
+#~ "Wir haben Ihnen eine Email mit Ihrer Zahlungsbestätigung zugeschickt."
+
+#~ msgid "Changes have been saved"
+#~ msgstr "Änderungen wurden gespeichert"
+
+#~ msgid "Edit client booking"
+#~ msgstr "Kundenbuchung bearbeiten"
+
+# @ wpsmnt_
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
+
+#~ msgid "Facebook profile URL"
+#~ msgstr "Facebook Profil URL"
+
+#~ msgid "Google+ profile URL"
+#~ msgstr "Google+ Profil URL"
+
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter Benutzername"
+
+#~ msgid "Photo ID"
+#~ msgstr "Foto ID"
+
+# @ wpsmnt_
+#~ msgid "Remove Embed"
+#~ msgstr "Embed Code entfernen"
+
+# @ wpsmnt_
+#~ msgid "Please Try Again"
+#~ msgstr "Bitte nochmals versuchen"
+
+# @ wpsmnt_
+#~ msgid "No oEmbed Results Found for %s. View more info at"
+#~ msgstr "Keine oEmbed Resultate gefunden für %s. Mehr Infor unter"
+
+# @ wpsmnt_
+#~ msgid "Event Details"
+#~ msgstr "Event Details"
+
+# @ wpsmnt_
+#~ msgid "From"
+#~ msgstr "Vom"
+
+#~ msgid "First block"
+#~ msgstr "Erster Block"
+
+# @ wpsmnt_
+#~ msgid "To"
+#~ msgstr "Bis"
+
+# @ wpsmnt_
+#~ msgid "2. From"
+#~ msgstr "2. Vom"
+
+#~ msgid "Second block"
+#~ msgstr "Zweiter Block"
+
+#~ msgid "2. To"
+#~ msgstr "2. Bis"
+
+# @ wpsmnt_
+#~ msgid "Special price"
+#~ msgstr "Sonderpreis"
+
+# @ wpsmnt_
+#~ msgid "Special ends on"
+#~ msgstr "Sonderpreis Ende"
+
+# @ wpsmnt_
+#~ msgid "Last day"
+#~ msgstr "Letzter Tag"
+
+# @ wpsmnt_
+#~ msgid "Venue"
+#~ msgstr "Ort"
+
+#~ msgid "Languages"
+#~ msgstr "Sprachen"
+
+# @ wpsmnt_
+#~ msgid "of event"
+#~ msgstr "des Event"
+
+# @ wpsmnt_
+#~ msgid "Participants"
+#~ msgstr "Teilnehmer"
+
+# @ wpsmnt_
+#~ msgid "maximal number"
+#~ msgstr "Maximale Anzahl"
+
+#~ msgid "Duration"
+#~ msgstr "Dauer"
+
+#~ msgid "minutes"
+#~ msgstr "Minuten"
+
+#~ msgid "Featured"
+#~ msgstr "Featured"
+
+#~ msgid "highlighted"
+#~ msgstr "hervorgehoben"
+
+#~ msgid "Not bookable"
+#~ msgstr "Nicht buchbar"
+
+#~ msgid "only visible"
+#~ msgstr "nur sichtbar"
+
+# @ wpsmnt_
+#~ msgid "Venue Option"
+#~ msgstr "Ort Optionen"
+
+# @ wpsmnt_
+#~ msgid "Street and number"
+#~ msgstr "Straße und Nummer"
+
+# @ wpsmnt_
+#~ msgid "State / Province / County"
+#~ msgstr "Staat / Provinz / Kreis"
+
+#~ msgid "Google map"
+#~ msgstr "Google Map"
+
+#~ msgid "Show google map when viewing site"
+#~ msgstr "Google Map anzeigen"
+
+# @ wpsmnt_
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+# @ wpsmnt_
+#~ msgid "Instructor Option"
+#~ msgstr "Dozent Option"
+
+#~ msgid "e.g. +49 1234 56789"
+#~ msgstr "zB. +49 1234 56789"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "Linkedin"
+#~ msgstr "Linkedin"
+
+#~ msgid "Xing"
+#~ msgstr "Xing"
+
+# @ wpsmnt_
+#~ msgid "Studio Manager"
+#~ msgstr "Studio Manager"
+
+# @ wpsmnt_
+#~ msgid "Event"
+#~ msgstr "Event"
+
+# @ wpsmnt_
+#~ msgid "Search Events"
+#~ msgstr "Suche Events"
+
+# @ wpsmnt_
+#~ msgid "Events"
+#~ msgstr "Events"
+
+# @ wpsmnt_
+#~ msgid "View Event"
+#~ msgstr "Event ansehen"
+
+# @ wpsmnt_
+#~ msgid "Edit Event"
+#~ msgstr "Event editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Event"
+#~ msgstr "Event aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add Event"
+#~ msgstr "Event erstellen"
+
+# @ wpsmnt_
+#~ msgid "Add New Event"
+#~ msgstr "Neuen Event hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Event"
+#~ msgstr "Neues Event"
+
+# @ wpsmnt_
+#~ msgid "New Event Name"
+#~ msgstr "Neuer Event Name"
+
+# @ wpsmnt_
+#~ msgid "No Events found"
+#~ msgstr "Keine Events gefunden"
+
+# @ wpsmnt_
+#~ msgid "No Events found in trash"
+#~ msgstr "Keine Events im Papierkorb gefunden"
+
+# @ wpsmnt_
+#~ msgid "Add or remove Events"
+#~ msgstr "Hinzufügen oder löschen der Events"
+
+# @ wpsmnt_
+#~ msgid "Parent Event"
+#~ msgstr "Eltern Event"
+
+# @ wpsmnt_
+#~ msgid "This is where Events are edited"
+#~ msgstr "Hier werden Events editiert"
+
+# @ wpsmnt_
+#~ msgid "event"
+#~ msgstr "seminar"
+
+# @ wpsmnt_
+#~ msgid "Instructor"
+#~ msgstr "Dozent"
+
+# @ wpsmnt_
+#~ msgid "Search Instructors"
+#~ msgstr "Suche Dozenten"
+
+# @ wpsmnt_
+#~ msgid "View Instructor"
+#~ msgstr "Dozent ansehen"
+
+# @ wpsmnt_
+#~ msgid "Edit Instructor"
+#~ msgstr "Dozent editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Instructor"
+#~ msgstr "Dozent aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add Instructor"
+#~ msgstr "Dozent hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "Add New Instructor"
+#~ msgstr "Neuen Dozent hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Instructor"
+#~ msgstr "Neuer Dozent"
+
+# @ wpsmnt_
+#~ msgid "New Instructor Name"
+#~ msgstr "Neuer Dozenten Name"
+
+# @ wpsmnt_
+#~ msgid "No Instructors found"
+#~ msgstr "Keine Dozenten gefunden"
+
+# @ wpsmnt_
+#~ msgid "No Instructors found in trash"
+#~ msgstr "Keine Dozenten im Papierkorb gefunden"
+
+# @ wpsmnt_
+#~ msgid "Add or remove Instructors"
+#~ msgstr "Hinzufügen oder löschen des Dozenten"
+
+# @ wpsmnt_
+#~ msgid "Parent Instructor"
+#~ msgstr "Eltern Dozent"
+
+# @ wpsmnt_
+#~ msgid "This is where Instructors are edited"
+#~ msgstr "Hier werden Dozenten editiert"
+
+# @ wpsmnt_
+#~ msgid "instructor"
+#~ msgstr "dozent"
+
+# @ wpsmnt_
+#~ msgid "Venues"
+#~ msgstr "Orte"
+
+# @ wpsmnt_
+#~ msgid "Search Venues"
+#~ msgstr "Orte suchen"
+
+# @ wpsmnt_
+#~ msgid "View Venue"
+#~ msgstr "Ort ansehen"
+
+# @ wpsmnt_
+#~ msgid "Edit Venue"
+#~ msgstr "Ort editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Venue"
+#~ msgstr "Ort aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add Venue"
+#~ msgstr "Ort hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "Add New Venue"
+#~ msgstr "Einen neuen Ort hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Venue"
+#~ msgstr "Neuer Ort"
+
+# @ wpsmnt_
+#~ msgid "New Venue Name"
+#~ msgstr "Neuer Ort Name"
+
+# @ wpsmnt_
+#~ msgid "No Venues found"
+#~ msgstr "Keine Orte gefunden"
+
+# @ wpsmnt_
+#~ msgid "No Venues found in trash"
+#~ msgstr "Keine Orte im Papierkorb gefunden"
+
+# @ wpsmnt_
+#~ msgid "Add or remove Venues"
+#~ msgstr "Hinzufügen oder löschen des Ortes"
+
+# @ wpsmnt_
+#~ msgid "Parent Venue"
+#~ msgstr "Eltern Ort"
+
+# @ wpsmnt_
+#~ msgid "This is where Venues are edited"
+#~ msgstr "Hier editieren Sie die Orte"
+
+# @ wpsmnt_
+#~ msgid "venue"
+#~ msgstr "ort"
+
+# @ wpsmnt_
+#~ msgctxt "taxonomy general name"
+#~ msgid "Rooms"
+#~ msgstr "Räume"
+
+# @ wpsmnt_
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Room"
+#~ msgstr "Raum"
+
+# @ wpsmnt_
+#~ msgid "Search Rooms"
+#~ msgstr "Räume suchen"
+
+# @ wpsmnt_
+#~ msgid "All Rooms"
+#~ msgstr "Alle Räume"
+
+# @ wpsmnt_
+#~ msgid "Parent Room"
+#~ msgstr "Eltern Raum"
+
+# @ wpsmnt_
+#~ msgid "Parent Room:"
+#~ msgstr "Eltern Raum:"
+
+# @ wpsmnt_
+#~ msgid "Edit Room"
+#~ msgstr "Raum ändern"
+
+# @ wpsmnt_
+#~ msgid "Update Room"
+#~ msgstr "Raum aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add New Room"
+#~ msgstr "Neuen Raum hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Room"
+#~ msgstr "Neuer Raum"
+
+#~ msgid "room"
+#~ msgstr "raum"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Event Categories"
+#~ msgstr "Event Kategorien"
+
+# @ wpsmnt_
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Event Category"
+#~ msgstr "Event Kategorie"
+
+# @ wpsmnt_
+#~ msgid "Search Event Category"
+#~ msgstr "Event Kategorie suchen"
+
+# @ wpsmnt_
+#~ msgid "All Event Categories"
+#~ msgstr "Alle Event Kategorien"
+
+# @ wpsmnt_
+#~ msgid "Parent Event Category"
+#~ msgstr "Eltern Event Kategorie"
+
+# @ wpsmnt_
+#~ msgid "Parent Event Category:"
+#~ msgstr "Eltern Event Kategorie:"
+
+# @ wpsmnt_
+#~ msgid "Edit Event Category"
+#~ msgstr "Event Kategorie editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Event Category"
+#~ msgstr "Event Kategorie aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add New Event Category"
+#~ msgstr "Neue Event Kategorie hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Event Category"
+#~ msgstr "Neuer Event Kategorie Name"
+
+# @ wpsmnt_
+#~ msgid "Event Category"
+#~ msgstr "Event Kategorie"
+
+# @ wpsmnt_
+#~ msgid "event-category"
+#~ msgstr "event-kategorie"
+
+#~ msgid "This email is already assigned"
+#~ msgstr "Diese Email ist bereits vergeben"
+
+#~ msgid "Please choose your package"
+#~ msgstr "Bitte wählen Sie Ihr Paket"
+
+#~ msgid "Read more"
+#~ msgstr "Weiterlesen"
+
+#~ msgid "Register Single"
+#~ msgstr "Einzel Anmeldung"
+
+#~ msgid "Register Group"
+#~ msgstr "Gruppen Anmeldung"
+
+#~ msgid ""
+#~ "Only possible if you already registered for the <br/> 10th Yoga "
+#~ "Conference 2014.<br/> We have a new software."
+#~ msgstr ""
+#~ "Nur möglich, wenn Sie sich bereits für die <br/> 10. Yoga Conference "
+#~ "angemeldet haben. <br/> Wir nutzen eine neue Software."
+
+#~ msgid "Registration as new customer"
+#~ msgstr "Anmeldung als neuer Kunde"
+
+#~ msgid "Password"
+#~ msgstr "Passwort"
+
+#~ msgid "Type it again"
+#~ msgstr "Wiederholen"
+
+#~ msgid "Event Overview"
+#~ msgstr "Event Übersicht"
+
+# @ wpsmnt_
+#~ msgid "Workshop Overview"
+#~ msgstr "Workshop Übersicht"
+
+#~ msgid "Full, please put me on the waiting list"
+#~ msgstr "Ausgebucht, bitte setzt mich auf die Warteliste"
+
+#~ msgid "Log out from customer area"
+#~ msgstr "Vom Kundenbereich abmelden"
+
+#~ msgid "Log out"
+#~ msgstr "Abmelden"
+
+#~ msgid "Your registrations"
+#~ msgstr "Ihre Anmeldungen"
+
+#~ msgid "Please transfer the invoice total to our bank account."
+#~ msgstr "Bitte überweisen Sie den Betrag auf unser Bankkonto."
+
+#~ msgid "Your PDF bill"
+#~ msgstr "Ihre PDF Rechnung"
+
+# @ wpsmnt_
+#~ msgid "Your Workshops"
+#~ msgstr "Deine Workshops"
+
+#~ msgid "Important: Please choose your workshops now."
+#~ msgstr "Wichtig: Bitte wählen Sie jetzt Ihre Workshops."
+
+# @ wpsmnt_
+#~ msgid "Group"
+#~ msgstr "Gruppe"
+
+#~ msgid "No order, only registered."
+#~ msgstr "Keine Buchung, nur registriert."
+
+#~ msgid "Email Messages"
+#~ msgstr "Email Nachrichten"
+
+#~ msgid ""
+#~ "Dear %1$s, <br/><br/> The great event is coming closer. The 10th Yoga "
+#~ "Conference Germany is taking place from 30th to 2nd May, 2014 in Cologne "
+#~ "and you will be part of it."
+#~ msgstr ""
+#~ "Hi %1$s, <br/><br/> Bald ist es soweit: Die zehnte Yoga Conference "
+#~ "Germany findet vom 30.05. – 02.06.2014 in Köln statt und Du wirst ein "
+#~ "Teil davon sein. "
+
+#~ msgid ""
+#~ "We thank you for trusting us. We are sending you some usefull information "
+#~ "as pdf attachment."
+#~ msgstr ""
+#~ "Wir danken Dir für das in uns gesetzte Vertrauen und freuen uns auf ein "
+#~ "unvergessliches Wochenende mit Dir. Im Anhang schicken wir Dir ein PDF "
+#~ "mit wichtigen Informationen."
+
+#~ msgid "Best Wishes,"
+#~ msgstr "Herzliche Grüße,"
+
+#~ msgid " Nicole Maria Bongartz, CEO Yoga Conference Germany"
+#~ msgstr "Nicole Maria Bongartz, Kongressleitung Köln"
+
+#~ msgid "Email with attachment was sent."
+#~ msgstr "Email mit Anhang wurde verschickt."
+
+#~ msgid "Time"
+#~ msgstr "Zeit"
+
+# @ wpsmnt_
+#~ msgid "Workshops"
+#~ msgstr "Workshops"
+
+#~ msgid "and"
+#~ msgstr "und"
+
+#~ msgid "More about"
+#~ msgstr "Mehr über"
+
+# @ wpsmnt_
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+# @ wpsmnt_
+#~ msgid "Details &raquo;"
+#~ msgstr "Details &raquo;"
+
+# @ wpsmnt_
+#~ msgid "Select your Workshops"
+#~ msgstr "Wählen Sie Ihre Workshops"
+
+#~ msgid ""
+#~ "Note: Workshops for PRE and POST Conference are mandatory, the workshops "
+#~ "of the Main Conference can be chosen freely to availability on the "
+#~ "respective day."
+#~ msgstr ""
+#~ "Hinweis: Workshops für PRE- und POST Conference sind verbindlich, die "
+#~ "Workshops der Main Conference können nach Verfügbarkeit frei an dem "
+#~ "jeweiligen Tag gewählt werden."
+
+#~ msgid "Waiting list for"
+#~ msgstr "Warteliste für"
+
+#~ msgid "Send email for waiting list"
+#~ msgstr "Email senden für Warteliste"
+
+#~ msgid "Next"
+#~ msgstr "Weiter"
+
+#~ msgid "Schedule"
+#~ msgstr "Schedule"
+
+#~ msgid "Go to URL"
+#~ msgstr "Zur Url gehen"
+
+#~ msgid "Google"
+#~ msgstr "Google"
+
+#~ msgid "Sorry %1$s, your order was not sent. Please get in contact with us."
+#~ msgstr ""
+#~ "Entschuldigung %1$s, Ihre Buchung konnte nicht gespeichert werden. Bitte "
+#~ "setzen Sie sich mit uns in Verbindung."
+
+#~ msgid "Payment Confirmation"
+#~ msgstr "Bestätigung der Zahlung"
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Included taxes 19%"
+#~ msgstr "Inklusive MwSt. von 19%"
+
+#~ msgid "Billing address"
+#~ msgstr "Rechnungsadresse"
+
+#~ msgid "Is this the address you'd like to use?"
+#~ msgstr "Ist das die Adresse, die Sie verwenden möchten?"
+
+#~ msgid ""
+#~ "Please transfer the total amount of %1$s to the following bank account."
+#~ msgstr "Bitte überweisen Sie den Betrag von %1$s auf folgendes Bankkonto:"
+
+#~ msgid "Review your order"
+#~ msgstr "Überprüfen Sie Ihre Bestellung"
+
+#~ msgid "Persons"
+#~ msgstr "Personen"
+
+#~ msgid "Subtotal"
+#~ msgstr "Zwischensumme"
+
+# @ wpsmnt_
+#~ msgid "Group Discount"
+#~ msgstr "Gruppen Rabatt"
+
+#~ msgid "Net amount"
+#~ msgstr "Rechnungssumme (Netto)"
+
+#~ msgid "Plus %1$s%% sales taxes"
+#~ msgstr "zuzüglich  %1$s%% MwSt."
+
+# @ wpsmnt_
+#~ msgid "Your selected Workshops"
+#~ msgstr "Ihre gewählten Workshops"
+
+#~ msgid "Select a Payment Method"
+#~ msgstr "Wählen Sie eine Zahlungsmethode"
+
+#~ msgid "Pay via Bank Transfer"
+#~ msgstr "Per Überweisung bezahlen (Rechnung)"
+
+#~ msgid "Place your order now"
+#~ msgstr "Jetzt bestellen"
+
+#~ msgid "Pay via Paypal"
+#~ msgstr "Per Paypal bezahlen"
+
+#~ msgid "Included taxes %1$s%% (VAT)"
+#~ msgstr "Inklusive MwSt. von %1$s%%"
+
+#~ msgid "Pay with PayPal"
+#~ msgstr "Mit Paypal bezahlen"
+
+#~ msgid "Tax ID number  %1$s | Tax number  %2$s | Finanzamt %3$s"
+#~ msgstr "UStId  %1$s | Steuer Nr.  %2$s | Finanzamt %3$s"
+
+#~ msgid "Managing Partner: %1$s"
+#~ msgstr "Geschäftsführer: %1$s"
+
+#~ msgid "Commercial Register: %1$s | No.: %2$s"
+#~ msgstr "Handelsregister %1$s | Nr. %2$s"
+
+#~ msgid "Page"
+#~ msgstr "Seite"
+
+#~ msgid "Invoice No:"
+#~ msgstr "Rechnung Nr.:"
+
+#~ msgid "Invoice / Registration Confirmation"
+#~ msgstr "Rechnung / Anmeldebestätigung"
+
+#~ msgid "Please bring this registration confirmation to the check-in."
+#~ msgstr "Bitte bringen Sie diese Anmeldebestätigung mit zum Check-In."
+
+# @ wpsmnt_
+#~ msgid "Discount"
+#~ msgstr "Rabatt"
+
+#~ msgid "plus %1$s%% sales tax"
+#~ msgstr "zuzüglich %1$s%% MwSt."
+
+#~ msgid "Without sales tax, because of tax exemption"
+#~ msgstr "Ohne MwSt., da Umsatzsteuer befreit "
+
+#~ msgid "Thank you, you already payed with PayPal."
+#~ msgstr "Vielen Dank, Sie haben bereits mit PayPal bezahlt."
+
+#~ msgid "Please transfer the invoice total within 14 days"
+#~ msgstr "Bitte überweisen Sie den Betrag innerhalb von 14 Tagen"
+
+# @ wpsmnt_
+#~ msgid "Your workshops"
+#~ msgstr "Deine Workshops"
+
+#~ msgid "Language"
+#~ msgstr "Sprache"
+
+# @ wpsmnt_
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Call with mobile phone"
+#~ msgstr "Mit dem Handy anrufen"
+
+#~ msgid "Go to google maps"
+#~ msgstr "Zu Google Maps"
+
+#~ msgid "Show in google maps"
+#~ msgstr "In Google Maps anzeigen"
+
+# @ wpsmnt_
+#~ msgid "Call number"
+#~ msgstr "Nummer anrufen"
+
+#~ msgid "Send email"
+#~ msgstr "Email senden"
+
+#~ msgid "Go to client profile"
+#~ msgstr "Kundenprofil öffnen"
+
+#~ msgid "Open client profile"
+#~ msgstr "Kundenprofil öffnen"
+
+#~ msgid "Net price, no tax"
+#~ msgstr "Netto Preis, keine MwSt."
+
+#~ msgid "check and set Total to net amount (eg. Total / 1,19)"
+#~ msgstr "auswählen und in Total den Netto Preis eintragen (zB. Total / 1,19)"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Send email with payment confirmation to client"
+#~ msgstr "Email mit Zahlungsbestätigung an Kunden senden"
+
+#~ msgid "e.g. 2013-12-30"
+#~ msgstr "z.B. 30.12.2013"
+
+#~ msgid "Change"
+#~ msgstr "Ändern"
+
+#~ msgid "Create new PDF bill"
+#~ msgstr "PDF Rechnung neu erstellen"
+
+#~ msgid "New PDF"
+#~ msgstr "Neues PDF"
+
+#~ msgid "Create new PDF bill and send email to client"
+#~ msgstr "Eine neue PDF Rechnung erstellen und per Email an Kunden senden"
+
+#~ msgid "New PDF + email"
+#~ msgstr "Neues PDF + Email"
+
+#~ msgid "Id"
+#~ msgstr "Nr."
+
+# @ wpsmnt_
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Order"
+#~ msgstr "Buchung"
+
+#~ msgid "Registration %1$s (%2$s)"
+#~ msgstr "Anmeldung %1$s (%2$s)"
+
+# @ wpsmnt_
+#~ msgid "More Details"
+#~ msgstr "Mehr Details"
+
+# @ wpsmnt_
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Registration for"
+#~ msgstr "Anmeldung - "
+
+#~ msgid "I want to register. My adress for the bill is"
+#~ msgstr "Hiermit melde ich mich verbindlich an. Meine Rechnungsadresse ist"
+
+#~ msgid "Sign up by e-mail now"
+#~ msgstr "Jetzt per Email anmelden"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Features"
+#~ msgstr "Features"
+
+#~ msgid "Youtube 1"
+#~ msgstr "Youtube 1"
+
+#~ msgid "Youtube 2"
+#~ msgstr "Youtube 2"
+
+#~ msgid "Youtube 3"
+#~ msgstr "Youtube 3"
+
+#~ msgid ""
+#~ "<strong>Come Together!</strong> - The 20+ Tickets-Package <br/> "
+#~ "Networking pays off: yoga studios, teacher trainings or simply friends "
+#~ "who purchase 20 or more tickets and book both days of the Main-"
+#~ "Conference, benefit now from our discounted prices with our 20+ Tickets-"
+#~ "Package. <br/>Prices and conditions simply ask:"
+#~ msgstr ""
+#~ "<strong>Come Together!</strong> - 20 und mehr Tickets im Kontingent <br/> "
+#~ "Networking zahlt sich aus: Yogastudios, Lehrerausbildungen oder einfach "
+#~ "Freunde, die 20 oder mehr Tickets abnehmen, und beide Tage der Main-"
+#~ "Conference buchen, profitieren ab jetzt von unseren besonders günstigen "
+#~ "Kontingentpreisen.<br/> Preise und Konditionen einfach erfragen: "
+
+#~ msgid ""
+#~ "The <strong>group price</strong> is available for groups (as usual 6 "
+#~ "people for the price of 5 = 16,67%)."
+#~ msgstr ""
+#~ "Den <strong>Gruppentarif</strong> gibt es für 6er Gruppen auch in diesem "
+#~ "Jahr (wie gewohnt 6 Personen zum Preis von 5 anmelden = 16,67%)."
+
+# @ wpsmnt_
+#~ msgid "in workshop"
+#~ msgstr "im Workshop"
+
+# @ wpsmnt_
+#~ msgid "Workshop Category"
+#~ msgstr "Workshop Kategorie"
+
+# @ wpsmnt_
+#~ msgid "Workshop Categories"
+#~ msgstr "Workshop Kategorien"
+
+#~ msgid "Please Sign In as returning customer"
+#~ msgstr "Bitte melden Sie sich als Kunde an"
+
+#~ msgid "Please insert a valid E-Mail"
+#~ msgstr "Bitte überprüfen Sie Ihre Email"
+
+#~ msgid "The PDF file for registration no %1$s has been created"
+#~ msgstr "Die PDF Datei für die Anmeldung Nr. %1$s wurde neu erstellt"
+
+# @ wpsmnt_
+#~ msgid "2. Special price"
+#~ msgstr "2. Sonderpreis"
+
+# @ wpsmnt_
+#~ msgid "2. Special ends on"
+#~ msgstr "2. Sonderpreis Ende"
+
+# @ wpsmnt_
+#~ msgid "3. Special price"
+#~ msgstr "3. Sonderpreis"
+
+# @ wpsmnt_
+#~ msgid "3. Special ends on"
+#~ msgstr "3. Sonderpreis Ende"
+
+# @ wpsmnt_
+#~ msgid "Group size"
+#~ msgstr "Gruppengröße"
+
+# @ wpsmnt_
+#~ msgid "Group discount"
+#~ msgstr "Gruppen Rabatt"
+
+# @ wpsmnt_
+#~ msgid "%"
+#~ msgstr "%"
+
+# @ wpsmnt_
+#~ msgid "Special discount"
+#~ msgstr "Sonderpreis"
+
+#~ msgid "%, e.g. employee"
+#~ msgstr "%, Bsp.: Mitarbeiter"
+
+# @ wpsmnt_
+#~ msgid "Workshop Details"
+#~ msgstr "Workshop Details"
+
+# @ wpsmnt_
+#~ msgid "Workshop"
+#~ msgstr "Workshop"
+
+# @ wpsmnt_
+#~ msgid "Search Workshops"
+#~ msgstr "Workshops suchen"
+
+# @ wpsmnt_
+#~ msgid "View Workshop"
+#~ msgstr "Workshop ansehen"
+
+# @ wpsmnt_
+#~ msgid "Edit Workshop"
+#~ msgstr "Workshops editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Workshop"
+#~ msgstr "Workshop aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add Workshop"
+#~ msgstr "Workshop hinzfügen"
+
+# @ wpsmnt_
+#~ msgid "Add New Workshop"
+#~ msgstr "Neuen Workshop hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Workshop"
+#~ msgstr "Neuer Workshop"
+
+# @ wpsmnt_
+#~ msgid "New Workshop Name"
+#~ msgstr "Neuer Workshop Name"
+
+# @ wpsmnt_
+#~ msgid "No Workshops found"
+#~ msgstr "Keine Workshops gefunden"
+
+# @ wpsmnt_
+#~ msgid "No Workshops found in trash"
+#~ msgstr "Keine Workshops im Papierkorb gefunden"
+
+# @ wpsmnt_
+#~ msgid "Add or remove Workshop"
+#~ msgstr "Hinzufügen oder löschen des Workshops"
+
+# @ wpsmnt_
+#~ msgid "Parent Workshop"
+#~ msgstr "Eltern Workshop "
+
+# @ wpsmnt_
+#~ msgid "This is where Workshops are edited"
+#~ msgstr "Hier editieren Sie neue Workshops"
+
+# @ wpsmnt_
+#~ msgid "workshop"
+#~ msgstr "workshop"
+
+# @ wpsmnt_
+#~ msgctxt "taxonomy general name"
+#~ msgid "Workshop Categories"
+#~ msgstr "Workshop Kategorien"
+
+# @ wpsmnt_
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Workshop Category"
+#~ msgstr "Workshop Kategorie"
+
+# @ wpsmnt_
+#~ msgid "Edit Workshop Category"
+#~ msgstr "Workshop Kategorie editieren"
+
+# @ wpsmnt_
+#~ msgid "Update Workshop Category"
+#~ msgstr "Workshop Kategorie aktualisieren"
+
+# @ wpsmnt_
+#~ msgid "Add New Workshop Category"
+#~ msgstr "Neue Workshop Kategorie hinzufügen"
+
+# @ wpsmnt_
+#~ msgid "New Workshop Category"
+#~ msgstr "Neue Workshop Kategorie"
+
+#~ msgid ""
+#~ "Yoga Conference Germany - Choose your workshops for registration %1$s now"
+#~ msgstr ""
+#~ "Yoga Conference Germany - Wähle jetzt die Workshops für Deine Anmeldung "
+#~ "%1$s"
+
+#~ msgid ""
+#~ "Hello %1$s, <br/><br/> until now you have not selected the workshops for "
+#~ "your registration no. %2$s  of the Yoga Conference Germany."
+#~ msgstr ""
+#~ "Hallo %1$s, <br/><br/> bisher hast Du in Deiner Anmeldung %2$s der Yoga "
+#~ "Conference Germany noch keine Workshops ausgewählt."
+
+#~ msgid ""
+#~ "We want to assign your place in your favorite workshops, for this reason "
+#~ "please select your workshops."
+#~ msgstr ""
+#~ "Damit wir Dir einen Platz in Deinen Lieblingsworkshops garantieren "
+#~ "können, bitten wir Dich so schnell wie möglich Deine Workshops "
+#~ "auszuwählen."
+
+#~ msgid "Click this link now to select your workshops:"
+#~ msgstr "Klicke jetzt diesen Link, um Deine Workshops auszuwählen:"
+
+# @ wpsmnt_
+#~ msgid "Click now to choose your workshops"
+#~ msgstr "Wählen Sie jetzt Ihre Workshops"
+
+#~ msgid ""
+#~ "If the workshop selection for the 10th Yoga Conference was successful you "
+#~ "receive a confirmation via email with a new PDF invoice in which the "
+#~ "workshops are listed. <br/>We ask you to print the PDF and bring it to "
+#~ "the check-in. <br/>Until Wednesday the 18th Dec. 2013 you should choose "
+#~ "your workshops so that we can guarantee your selection.<br/><br/> We are "
+#~ "happy to see you at the Yoga Conference and we wish you a wonderful "
+#~ "Christmas time, <br/> Thank you!"
+#~ msgstr ""
+#~ "Wenn die Wahl Deiner Workshops für die 10. Yoga Conference erfolgreich "
+#~ "war, erhältst Du von uns eine Bestätigung per Email mit einer neuen PDF "
+#~ "Rechnung, in der auch die Workshops aufgelistet werden. Wir bitten dich "
+#~ "diese auszudrucken und sie zum Checkin mitzubringen.<br/>Bis Mittwoch den "
+#~ "18.12.2013 solltest Du die Wahl Deiner Workshops vornehmen, damit wir Dir "
+#~ "den Platz garantieren können.<br/><br/>Wir freuen uns auf Dich bei der "
+#~ "Yoga Conference und wünschen Dir eine wunderschöne Weihnachtszeit,<br/"
+#~ ">Vielen Dank!"
+
+# @ wpsmnt_
+#~ msgid "Add Person"
+#~ msgstr "Person hinzfügen"
+
+#~ msgid "Person"
+#~ msgstr "Person"
+
+#~ msgid "Continue to order summary"
+#~ msgstr "Weiter zur Übersicht"
+
+#~ msgid "Email / Phone"
+#~ msgstr "Email / Telefon"
+
+# @ wpsmnt_
+#~ msgid "Save workshops"
+#~ msgstr "Workshops speichern"
+
+#~ msgid ""
+#~ "The <strong>group price</strong> will be available for groups also this "
+#~ "year (as usual 6 people for the price of 5).<br/>Unfortunately, the group "
+#~ "booking in the new software does not work smoothly yet. We inform you as "
+#~ "soon as it is possible."
+#~ msgstr ""
+#~ "Unseren <strong>Gruppentarif</strong> gibt es für 6er Gruppen auch in "
+#~ "diesem Jahr (wie gewohnt 6 Personen zum Preis von 5 anmelden).<br/> "
+#~ "Leider funktioniert die Gruppenbuchung in der neuen Software noch nicht "
+#~ "reibungslos. Wir informieren Dich gerne sobald dies möglich ist."
+
+#~ msgid "Thank you for your registration."
+#~ msgstr "Vielen Dank für Ihre Anmeldung."
+
+#, fuzzy
+#~ msgid "Net total"
+#~ msgstr "Zwischensumme (Netto)"
+
+#~ msgid ""
+#~ "<strong>For our 10th anniversary our gift to you:</strong> Super special "
+#~ "price this time for everybody who registers. Regardless of whether you "
+#~ "ever attended or not! Book now until, Nov. 12th. 2013 special rate."
+#~ msgstr ""
+#~ "<strong>Zum 10jährigen Jubiläum unser Geschenk an Euch:</strong> Der "
+#~ "Super Sonder Tarif diesmal für ALLE, die sich anmelden. Unabhängig davon, "
+#~ "ob ihr schon mal bei uns wart oder nicht! Jetzt bis zum, 11.12.2013 "
+#~ "Spezial Tarif buchen."
+
+#~ msgid "Logout"
+#~ msgstr "Abmelden"
+
+#~ msgid "Continue"
+#~ msgstr "Weiter"
+
+#~ msgid ""
+#~ "Sorry, your order has not been saved. Please get immediately in contact "
+#~ "with us."
+#~ msgstr ""
+#~ "Entschuldigung, Ihre Buchung konnte nicht bespeichert werden. Bitte "
+#~ "setzen Sie sich umgehend mit uns in Kontakt."
+
+#~ msgid "Booking Form"
+#~ msgstr "Buchungsformular"
+
+#~ msgid "Sorry, the event does not exist."
+#~ msgstr "Entschuldigung, dieser Event existiert nicht."
+
+#~ msgid "Lost Password?"
+#~ msgstr "Passwort verloren?"
+
+#~ msgid "Photo URL"
+#~ msgstr "Foto URL"
+
+#~ msgid "Repeat Password"
+#~ msgstr "Passwort wiederholen"
