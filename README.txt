@@ -5,11 +5,11 @@ Donate link: http://e-colori.com/
 Tags: events, signup, registration, the events calendar, extension, event registration, workshop registration, yoga
 Requires at least: 4.2
 Tested up to: 4.2.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Registration (sing up) extension for 'The Events Calendar'. Let clients sign up and send an automatic confirmation email.
+Registration (sign up) extension for 'The Events Calendar'. Let clients sign up and send an automatic confirmation email.
 
 == Description ==
 
@@ -52,14 +52,18 @@ or: bit.ly/wp-registration
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-
-2. This is the second screen shot
+1. The registration button
+2. The registration form, after clicking on the button
+3. Admin area for confirmation email
+4. That's how you insert the registration button
+5. That's how you insert the registration form
 
 == Changelog ==
+
+= 1.0.1 =
+* changed description
+* added screenshots
+* minor bugfixes
 
 = 1.0.0 =
 * Initial Commit

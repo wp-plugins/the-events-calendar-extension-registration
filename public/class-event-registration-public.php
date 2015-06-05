@@ -210,7 +210,7 @@ class Event_Registration_Public {
 		$headers2 .= 'Content-Type: text/html; charset=' . get_option( 'blog_charset' ) . "\r\n";
 		$headers2 .= 'From: '.$to.' <'.$to_email.'>'. "\r\n";
 		$headers2 .= 'Reply-To: '.$to.' <'.$to_email.'>'. "\r\n";
-		$headers2 .= 'Bcc: info@e-colori.com'. "\r\n";
+		
 		
 		if ( $to2 ){
 			wp_mail( $to2, $subject, $message, $headers2, $attachments );
