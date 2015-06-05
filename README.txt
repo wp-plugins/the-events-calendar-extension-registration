@@ -5,7 +5,7 @@ Donate link: http://e-colori.com/
 Tags: events, signup, registration, the events calendar, extension, event registration, workshop registration, yoga
 Requires at least: 4.2
 Tested up to: 4.2.1
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,10 +60,13 @@ or: bit.ly/wp-registration
 
 == Changelog ==
 
+= 1.1 =
+version change
+
 = 1.0.1 =
 * changed description
 * added screenshots
-* minor bugfixes 
+* minor bugfixes
 
 = 1.0.0 =
 * Initial Commit
