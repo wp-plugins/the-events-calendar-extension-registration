@@ -63,7 +63,7 @@ or: bit.ly/wp-registration
 = 1.0.1 =
 * changed description
 * added screenshots
-* minor bugfixes
+* minor bugfixes 
 
 = 1.0.0 =
 * Initial Commit
