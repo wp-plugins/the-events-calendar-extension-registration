@@ -60,6 +60,7 @@ go to: http://e-colori.com/wordpress-plugins/the-events-calendar-extension-regis
 = 1.2 =
 * fixed sidebar bug
 * added thumbnail
+* minor fixes
 
 = 1.1 =
 version change
