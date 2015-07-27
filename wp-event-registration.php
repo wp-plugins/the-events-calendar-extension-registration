@@ -10,7 +10,7 @@
  * Plugin Name: The Events Calendar Extension: Registration
  * Plugin URI:  http://www.e-colori.com
  * Description: Easy and simple extension for 'The Events Calendar' to get registrations via email using shortcodes [wpecr_registration_button] and [wpecr_registration] for the form page witht the slug '/registration'
- * Version:     1.1
+ * Version:     1.2
  * Author:      Nico Graff, Tobias Fritz (c) e-colori.com
  * Author URI:  http://www.e-colori.com
  * Text Domain: wpecr
