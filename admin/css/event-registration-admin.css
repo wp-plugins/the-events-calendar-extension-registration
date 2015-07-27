@@ -1,0 +1,44 @@
+/**
+ * Backend CSS for admin-specific functionality
+ *
+ * @link       http://www.e-colori.com
+ * @author     Tobias Fritz - www.e-colori.com
+ * @since      1.0.0
+ *
+ * @package    wp-event-registration
+ * @subpackage wp-event-registration/admin/css
+ */
+
+
+/*-----------------------------------------------------------------------------------*/
+/*  General
+/*-----------------------------------------------------------------------------------*/
+
+ .metabox-holder {
+ 	display: table;
+ 	width: 100%;
+ 	margin: 10px 20px 0 2px;
+ }
+
+ .column {
+ 	display: table-cell;
+ 	vertical-align: top;
+ }
+
+ .column-left {
+ 	min-width: 300px;
+ }
+
+ .column-right {
+ 	max-width: 300px;
+ 	padding-left: 4em;
+ }
+
+ .wpecr_box {
+ 	border: 1px solid #56b045;
+ 	padding: 1em;
+ }
+ #wpecr_e-colori {
+ 	margin-top: -1em;
+ 	margin-left: -5px;
+ }
