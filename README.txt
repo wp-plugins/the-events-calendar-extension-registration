@@ -47,7 +47,7 @@ You forgot to create a page for the registration form with the slug "/registrati
 
 Just write us an email wordpress@e-colori.com or leave a comment on the plugins page.
 
-=Support Us=
+= Support Us =
 Support the future development of the plugin with feature requests, translations and donations.
 go to: http://e-colori.com/wordpress-plugins/the-events-calendar-extension-registration
 
