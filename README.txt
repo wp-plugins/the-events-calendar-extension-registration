@@ -35,15 +35,19 @@ How to install the plugin 'The Events Calendar Extension: Registration' and get 
 
 == Frequently Asked Questions ==
 
-1. How do I show the registration button?
+=1. How do I show the registration button?=
+
 Insert the shortcode [wpecr_registration_button] on the event page (of 'The Events Calendar')
 
-2. Why do I get a 404 page after clicking the registration button?
+=2. Why do I get a 404 page after clicking the registration button?=
+
 You forgot to create a page for the registration form with the slug "/registration/" and insert the shortcode [wpecr_registration].
 
-3. I'm interested in a PRO version, a new feature for the plugin or I have another questions, how can I get in contact?
+=3. I'm interested in a PRO version, a new feature for the plugin or I have another questions, how can I get in contact?=
+
 Just write us an email wordpress@e-colori.com or leave a comment on the plugins page.
 
+=Support Us=
 Support the future development of the plugin with feature requests, translations and donations.
 go to: http://e-colori.com/wordpress-plugins/the-events-calendar-extension-registration
 
