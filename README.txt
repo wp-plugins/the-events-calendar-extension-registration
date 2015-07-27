@@ -4,7 +4,7 @@ Contributors: e-colori, nicogee
 Donate link: http://e-colori.com/
 Tags: events, signup, registration, the events calendar, extension, event registration, workshop registration, yoga
 Requires at least: 4.2
-Tested up to: 4.2.1
+Tested up to: 4.2.3
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,15 +35,19 @@ How to install the plugin 'The Events Calendar Extension: Registration' and get 
 
 == Frequently Asked Questions ==
 
-1. How do I show the registration button?
-- Insert the shortcode [wpecr_registration_button] on the event page (of 'The Events Calendar')
-2. Why do I get a 404 page after clicking the registration button?
-- You forgot to create a page for the registration form with the slug "/registration/" and insert the shortcode [wpecr_registration].
-3. I'm interested in a PRO version, a new feature for the plugin or I have another questions, how can I get in contact?
-- Just write us an email wordpress@e-colori.com or leave a comment on the plugins page.
+=1. How do I show the registration button?=
 
-= Do you have a question? =
+Insert the shortcode [wpecr_registration_button] on the event page (of 'The Events Calendar')
 
+=2. Why do I get a 404 page after clicking the registration button?=
+
+You forgot to create a page for the registration form with the slug "/registration/" and insert the shortcode [wpecr_registration].
+
+=3. I'm interested in a PRO version, a new feature for the plugin or I have another questions, how can I get in contact?=
+
+Just write us an email wordpress@e-colori.com or leave a comment on the plugins page.
+
+=Support Us=
 Support the future development of the plugin with feature requests, translations and donations.
 go to: http://e-colori.com/wordpress-plugins/the-events-calendar-extension-registration
 
@@ -60,6 +64,7 @@ go to: http://e-colori.com/wordpress-plugins/the-events-calendar-extension-regis
 = 1.2 =
 * fixed sidebar bug
 * added thumbnail
+* minor fixes
 
 = 1.1 =
 version change
